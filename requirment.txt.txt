@@ -1,0 +1,5 @@
+ultralytics==8.0.64  
+opencv-python==4.7.0.72  
+numpy==1.24.2  
+pygame==2.3.0  
+pandas==1.5.3  
